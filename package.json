@@ -1,0 +1,19 @@
+{
+  "name": "zhihu-daily-api",
+  "version": "1.0.0",
+  "description": "知乎日报本地api转发",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shouDeveloper/zhihu-daily-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shouDeveloper/zhihu-daily-api/issues"
+  },
+  "homepage": "https://github.com/shouDeveloper/zhihu-daily-api#readme"
+}
